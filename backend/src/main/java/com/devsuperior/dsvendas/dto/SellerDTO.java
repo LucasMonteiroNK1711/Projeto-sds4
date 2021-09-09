@@ -11,7 +11,7 @@ private static final long serialVersionUID = 1L;
 	private String name;
 	
 	public SellerDTO() {
-}
+	}
 
 	public SellerDTO(Long id, String name) {
 	
