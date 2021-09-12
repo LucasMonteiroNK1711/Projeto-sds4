@@ -9,7 +9,7 @@ const Dashboard = () => {
         <>
             <NavBar />
             <div className="container">
-                <h1 className="text-primary py-3">Deshboard de Vendas</h1>
+                <h1 className="text-primary py-3">Dashboard de Vendas</h1>
 
 
                 <div className="row px-3">
